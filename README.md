@@ -33,9 +33,18 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enriquelgarcia&show_icons=true&theme=tokyonight&hide_border=true" alt="Enrique's GitHub Stats" />
-</p>
+<div align="center">
+  <!-- 1. Tarjeta de Estadísticas Generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=enriquelgarcia&show_icons=true&theme=tokyonight&hide_border=true" alt="Enrique's GitHub Stats" width="48%" />
+
+  <!-- 2. Tarjeta de Lenguajes Más Usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquelgarcia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+  <br/><br/>
+
+  <!-- 3. Racha de Contribuciones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enriquelgarcia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
