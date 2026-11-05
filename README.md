@@ -31,20 +31,6 @@
 
 ---
 
-### 🏆 GitHub Achievements & Stats
-
-<div align="center">
-  <!-- Trofeos de logros visuales -->
-  <img src="https://github-profile-trophy.vercel.app/?username=enriquelgarcia&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Enrique's GitHub Trophies" />
-
-  <br/><br/>
-
-  <!-- Gráfica de actividad con área y vector -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enriquelgarcia&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enrique-lamas-garcia-bb8259405)
