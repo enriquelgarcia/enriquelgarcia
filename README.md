@@ -42,8 +42,8 @@
 
   <br/><br/>
 
-  <!-- 3. Racha de Contribuciones -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enriquelgarcia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- 3. Racha de Contribuciones (Servidor Actualizado) -->
+  <img src="https://streak-stats.demolab.com/?user=enriquelgarcia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
