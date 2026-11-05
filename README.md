@@ -31,19 +31,16 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Achievements & Stats
 
 <div align="center">
-  <!-- 1. Tarjeta de Estadísticas Generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=enriquelgarcia&show_icons=true&theme=tokyonight&hide_border=true" alt="Enrique's GitHub Stats" width="48%" />
-
-  <!-- 2. Tarjeta de Lenguajes Más Usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquelgarcia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Trofeos de logros visuales -->
+  <img src="https://github-profile-trophy.vercel.app/?username=enriquelgarcia&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Enrique's GitHub Trophies" />
 
   <br/><br/>
 
-  <!-- 3. Racha de Contribuciones (Servidor Actualizado) -->
-  <img src="https://streak-stats.demolab.com/?user=enriquelgarcia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Gráfica de actividad con área y vector -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enriquelgarcia&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
